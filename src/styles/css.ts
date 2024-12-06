@@ -18,6 +18,5 @@ export const navBarStyle: SxProps = {
 
 export const avatarStyle: SxProps = {
   width:200, 
-  height: 200,  
-  // boxShadow: "0 0 5px #00ff9f, 0 0 5px #00ff9f, 0 0 15px #00ff9f, 0 0 10px #00ff9f"
+  height: 200,
 }
