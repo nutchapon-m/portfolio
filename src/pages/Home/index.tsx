@@ -33,8 +33,7 @@ const Home = () => {
           Backend Developer
         </Typography>
         <Typography variant="h6" sx={{...fontStyle, fontSize:18, textShadow: "none"}}>
-        “Clean, simple, & high-quality solution
-         always sparks joy in my blood.”
+          "Facing challenging problems always fills me with excitement."
         </Typography>
       </Stack>
       <Contact/>
