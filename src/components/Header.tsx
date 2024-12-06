@@ -69,7 +69,7 @@ const Header: FC<HeaderProps> = ({ setMenuAction }) => {
         </Stack>
         <Stack
           display={{xs: "flex", sm: "none"}}
-          paddingInline={4}
+          paddingInline={2}
           sx={{
             borderColor: location.pathname == "/home"?"#f3f3f5":"rgb(27 27 39)",
           }}
